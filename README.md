@@ -16,10 +16,10 @@ The data type sent to be the API should be as follows. The Type is can only take
 ####JSON　
 
 ```json
+
 {
-	{
-    	"status": "OK",
-    	"data": [
+    "status": "OK",
+    "data": [
         {
             "title": "Lorel Ipsum Task",
             "description": "asddLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
@@ -28,8 +28,8 @@ The data type sent to be the API should be as follows. The Type is can only take
             "updatedAt": "2020-06-02T03:00:57.300Z",
             "id": "5ed5c0e91b2a4a2544ccf89b"
         }
-	}
 }
+
 ```
 
 
