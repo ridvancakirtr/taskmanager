@@ -50,7 +50,7 @@ The task sent as a Project is explained below.
 * The app is designed as min Sdk version 23 Target Sdk 29.
 * Internet control is done before logging into the application.The application is closed even if the internet is not connected.
 * Retrofit Library was used to process JSON data.
-* * You can assign a task by clicking the Tab Menu + which I Separate Daily Weekly Monthly.
+* You can assign a task by clicking the Tab Menu + which I Separate Daily Weekly Monthly.
 * You can update or delete the task by clicking on the Task listed.
 * You can delete All Tasks from the menu on the action bar and exit the application.
 
