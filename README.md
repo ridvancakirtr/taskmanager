@@ -61,3 +61,4 @@ public static final String BASE_URL = "http://192.168.43.42:8080/";
 
 ```
 
+![Test Image 3](https://github.com/ridvancakirtr/taskmanager/blob/master/app.gif)
