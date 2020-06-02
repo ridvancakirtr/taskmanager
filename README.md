@@ -8,9 +8,9 @@ A small user can plan their daily, weekly, monthly workis an application.
 The data type sent to be the API should be as follows. The Type is can only take 0,1 and 2.
 
                 
-0. Day=0
-1. Week=1
-2. Month=2
+* Day=0
+* Week=1
+* Month=2
                 
 
 ####JSON　
