@@ -60,4 +60,4 @@ Folder : RetrofitAPI -> ApiClient.class
 public static final String BASE_URL = "http://192.168.43.42:8080/";
 
 ```
-<img width="300" height="500" alt="java 8 and prio java 8  array review example" src="https://github.com/ridvancakirtr/taskmanager/blob/master/app.gif">
+<img width="300" height="600" alt="java 8 and prio java 8  array review example" src="https://github.com/ridvancakirtr/taskmanager/blob/master/app.gif">
