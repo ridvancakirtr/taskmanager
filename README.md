@@ -17,9 +17,18 @@ The data type sent to be the API should be as follows. The Type is can only take
 
 ```json
 {
-	"title":"Example Title",
-	"description":"Example Description",
-	"type":"2"
+	{
+    	"status": "OK",
+    	"data": [
+        {
+            "title": "Lorel Ipsum Task",
+            "description": "asddLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+            "type": "1",
+            "createdAt": "2020-06-02T03:00:57.300Z",
+            "updatedAt": "2020-06-02T03:00:57.300Z",
+            "id": "5ed5c0e91b2a4a2544ccf89b"
+        }
+	}
 }
 ```
 
