@@ -13,7 +13,7 @@ The data type sent to be the API should be as follows. The Type is can only take
 * Month=2
                 
 
-####JSON　
+#### Example JSON　Structure
 
 ```json
 
